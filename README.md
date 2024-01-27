@@ -25,7 +25,7 @@ Brain Dent is an engaging quiz platform designed to help you pass time or test y
 
 
 ## Highlights
-| Task                                     | Package                     | 
+| Task                                     | Implementation              | 
 | :---                                     |    :----:                   |
 | Creating Tags on the fly and searching   | React-Select                |
 | State Management                         | React Context + userReducer |
