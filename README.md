@@ -42,7 +42,7 @@ Brain Dent is an engaging quiz platform designed to help you pass time or test y
 - MongoDB database to store quiz data
 ### Installation and Usage
  
-1. `git clone `
+1. `git clone https://github.com/brutally-Honest/BrainDent.git`
 2. `npm install` in both server directory and client directory
 3. `npm start` in server directory and `npm run dev` in client directory
 
