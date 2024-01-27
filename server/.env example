@@ -1,4 +1,4 @@
 PORT= your backend port
 DB_URL=mongodb url
 DB_NAME= database name of your choice
-JWT_SECRET=yjwt secret key of your choice
+JWT_SECRET=jwt secret key of your choice
